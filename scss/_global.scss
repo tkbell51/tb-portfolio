@@ -63,7 +63,7 @@ hr.star-primary {
   border-color: #FFF;
 }
 hr.star-primary:after {
-  background-color: #4A423F;
+  background-color: $theme-primary;
   color: $theme-success;
 }
 hr.contact{
