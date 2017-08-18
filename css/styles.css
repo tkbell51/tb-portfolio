@@ -1,0 +1,11 @@
+.profile{
+    width: 30%;
+    border-radius: 50%;
+}
+.portSection {
+    background-size: cover;
+    background: url("../img/header.jpg");
+}
+.portTitle{
+    color: #F66733;
+}
